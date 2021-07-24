@@ -1,0 +1,17 @@
+{
+    "date" : "17 july, saturday 2021 12:30pm" ,
+    "people" :[
+     {
+        "name" : "aliya",
+        "occupation" : "doctor",
+        "age": 45,
+        "country": "Pakistan"
+    },
+    {
+        "name" : "ali",
+        "occupation" : "engineet",
+        "age": 25,
+        "country": "Pakistan"
+    }
+]
+}
